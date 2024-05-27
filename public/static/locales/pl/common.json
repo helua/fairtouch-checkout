@@ -144,6 +144,8 @@
   "stepComplete": {
       "title": "Dziękujemy za złożenie zamówienia!",
       "description": "Numer tego zamówienia to: <WrapperOrderId>#{{orderNumber}}</WrapperOrderId>",
+      "blik":  "Opłać je teraz wysyłając blika na <WrapperPhone>#{{supportPhone}}</WrapperPhone>",
+      "thank":  "Bardzo Ci dziękuję za docenienie mojej pracy i złożenie zamówienia. Zapleciony kamień  wyślę do Ciebie w przeciągu 7 dni. Mam nadzieję, że przyniesie Ci dużo dobra! \n✨ Wierzmy we wszystko, co niewidzialne, \nZosia Fairtouch",
       "continue": "Wróć do zakupów",
       "supportEmail": "W wypadku pytań napisz do nas na adres e-mail: <br /><WrapperStyle><WrapperEmail>{{email}}</WrapperEmail></WrapperStyle>",
       "supportPhone": "W wypadku pytań zadzwoń do nas na: <br /><WrapperStyle><WrapperPhone>{{phone}}</WrapperPhone></WrapperStyle>",

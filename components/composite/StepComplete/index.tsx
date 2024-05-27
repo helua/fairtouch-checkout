@@ -101,6 +101,26 @@ export const StepComplete: React.FC<Props> = ({
                   }}
                 />
               </Text>
+              <Text
+                data-testid="complete-checkout-summary"
+                className="text-gray-400"
+              >
+                <Trans
+                  i18nKey={"stepComplete.blik"}
+                  values={{ supportPhone }}
+                  components={{
+                    WrapperPhone: <strong className="text-black" />,
+                  }}
+                />
+              </Text>
+              <Text
+                data-testid="complete-checkout-summary"
+                className="text-gray-400"
+              >
+                <Trans
+                  i18nKey={"stepComplete.thank"}
+                />
+              </Text>
               <SupportMessage
                 supportEmail={supportEmail}
                 supportPhone={supportPhone}
