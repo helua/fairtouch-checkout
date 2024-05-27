@@ -131,7 +131,7 @@
       "shipping_address_first_name": "Imię",
       "shipping_address_last_name": "Nazwisko",
       "shipping_address_line_1": "Adres linijka 1",
-      "shipping_address_line_2": "Adres linijka 1",
+      "shipping_address_line_2": "Numer Paczkomatu InPost",
       "shipping_address_city": "Miasto",
       "shipping_address_country_code": "Kraj",
       "shipping_address_country_code_placeholder": "Wybierz kraj",
