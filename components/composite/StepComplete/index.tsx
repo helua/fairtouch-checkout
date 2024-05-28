@@ -101,7 +101,7 @@ export const StepComplete: React.FC<Props> = ({
                   }}
                 />
               </Text>
-              <Text
+              {/* <Text
                 data-testid="complete-checkout-summary"
                 className="text-gray-400"
               >
@@ -112,7 +112,7 @@ export const StepComplete: React.FC<Props> = ({
                     WrapperPhone: <strong className="text-black" />,
                   }}
                 />
-              </Text>
+              </Text> */}
               <Text
                 data-testid="complete-checkout-summary"
                 className="text-gray-400"
