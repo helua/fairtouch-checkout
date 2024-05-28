@@ -68,7 +68,7 @@
   },
 
   "stepCustomer": {
-      "title": "Klient",
+      "title": "Dane nabywcy",
       "addNewAddress": "Dodaj nowy adress",
       "saveAddressBook": "Zachowaj adres w swoim koncie klienta",
       "continueToDelivery": "Dalej do dostawy",
@@ -97,7 +97,7 @@
   "stepPayment": {
       "title": "Płatność",
       "methodUnselected": "Wybierz metodę płatności",
-      "creditCard": "Karta kredytowa",
+      "creditCard": "Szybkie płatności (Stripe)",
       "wireTransfer": "Przelew tradycyjny (Blik)",
       "wireTransferDescription": "Przy potwierdzeniu zamówienia otrzymasz instrukcję jak dokończyć płatność.",
       "paypalDescription": "Po złożeniu zamówienia zostaniesz przekierowany na stronę PayPal, gdzie trzeba się zalogować i dokończyć płatność",
@@ -154,7 +154,7 @@
       "billed_to": "Wystaw rachunek dla:",
       "payment": "Płatność:",
       "summary_title": "Podsumowanie",
-      "customer_title": "Klient",
+      "customer_title": "Dane nabywcy",
       "email": "E-mail:",
       "free_payment": "To zamówienie nie wymagało opłacenia."
   }
